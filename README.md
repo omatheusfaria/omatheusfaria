@@ -47,9 +47,8 @@
 
 ## Contato
 
-[![Linkedin](https://img.shields.io/badge/-Matheus_Faria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-username/)](www.linkedin.com/in/matheus-faria-68528b260)
+[![Linkedin](https://img.shields.io/badge/-Matheus_Faria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-faria-68528b260/)](www.linkedin.com/in/matheus-faria-68528b260)
 [![Gmail Badge](https://img.shields.io/badge/-lampersmatheusdk@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus@email.com)](mailto:lampersmatheusdk@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/matheus_fridhum/)](https://www.instagram.com/matheus_fridhum/)
 [![GitHub](https://img.shields.io/github/followers/omatheusfaria?label=follow&style=social)](https://github.com/omatheusfaria)
 
 
