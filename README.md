@@ -50,5 +50,5 @@
 [![GitHub](https://img.shields.io/github/followers/omatheusfaria?label=follow&style=social)](https://github.com/omatheusfaria)
 <br>
 
-![Snake animation](https://github.com/omatheusfaria/) 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
 
