@@ -39,7 +39,7 @@
 ## GitHub Stats
 
 <a href="https://github.com/omatheusfaria" title="Perfil do Matheus Faria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omatheusfaria&theme=tokyonight&show_icons=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=omatheusfaria&theme=tokyonight&show_icons=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusfaria&theme=tokyonight&show_icons=true" />
 </a>
 
