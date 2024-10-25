@@ -50,5 +50,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfaria-dev/)](https://www.linkedin.com/in/matheusfaria-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus@email.com)](mailto:lampersmatheusdk@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/omatheusfaria?label=follow&style=social)](https://github.com/omatheusfaria)
+<br>
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
 
