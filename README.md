@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Matheus Faria👋
 
-## Sobre mim
-
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Fatec Franca.
 - 🌱 Aprendendo mais sobre JavaScript.
