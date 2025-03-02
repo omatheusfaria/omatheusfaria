@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Fatec Franca.
-- 🌱 Aprendendo mais sobre JavaScript.
+- 🌱 Aprendendo mais sobre Java, python e SQL.
 
 ## Minhas Skills
 
