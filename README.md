@@ -1,38 +1,48 @@
-## Olá! Eu sou o Matheus Faria👋
+## Olá! Eu sou o Matheus Faria 👋
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Fatec Franca.
-- 🌱 Aprendendo mais sobre Java, python e SQL.
+Sou um desenvolvedor apaixonado por tecnologia e por criar soluções de software inovadoras. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca, onde venho aprofundando meus conhecimentos.
+
+Estou sempre em busca de novos desafios e aprendizados, com foco especial nas linguagens Java, Python e SQL. Meu objetivo é utilizar a tecnologia para resolver problemas do dia a dia e contribuir para projetos impactantes.
 
 ## Minhas Skills
 
 **Linguagens de Programação**
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Banco de Dados**
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-![Sublime text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+## Meus Principais Projetos
+
+Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido. Você pode encontrar mais dos meus repositórios aqui no GitHub.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **[Nome do Projeto 1](link-para-o-projeto-1)** | Uma breve descrição do que o projeto faz, seus objetivos e principais funcionalidades. | `Tecnologia 1`, `Tecnologia 2`, `Tecnologia 3` |
+| **[Nome do Projeto 2](link-para-o-projeto-2)** | Uma breve descrição do que o projeto faz, seus objetivos e principais funcionalidades. | `Tecnologia 1`, `Tecnologia 2`, `Tecnologia 3` |
+| **[Nome do Projeto 3](link-para-o-projeto-3)** | Uma breve descrição do que o projeto faz, seus objetivos e principais funcionalidades. | `Tecnologia 1`, `Tecnologia 2`, `Tecnologia 3` |
 
 ## GitHub Stats
 
@@ -48,4 +58,4 @@
 [![GitHub](https://img.shields.io/github/followers/omatheusfaria?label=follow&style=social)](https://github.com/omatheusfaria)
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
