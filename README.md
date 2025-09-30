@@ -50,7 +50,7 @@ Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido. Você p
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **[Aulas POO](https://github.com/omatheusfaria/ads-poo)** | Este repositório contém atividades e listas desenvolvidas na disciplina de Programação Orientada a Objetos (POO) utilizando a linguagem Java. | `Java`, `Spring Boot`, `IntelliJ IDEA`, `Insomnia` |
+| **[RPG Next](https://github.com/omatheusfaria/rpg_next)** | Um simples jogo de batalha RPG por turnos, inspirado na interface de batalha de Pokémon, construído com Next.js e React. | `Next.js`, `React`, `WebStorm` |
 | **[Aulas Script](https://github.com/omatheusfaria/ads-script)** | Este repositório contém atividades e projetos desenvolvidos na disciplina de Programação Script, utilizando o framework Next.js para a construção de interfaces web dinâmicas. | `JavaScript`, `Next.js`, `WebStorm` |
 | **[Calculadora Next](https://github.com/omatheusfaria/calculadora_next)** | Este é um projeto de uma calculadora simples desenvolvida como parte da disciplina de Programação Script. A aplicação foi criada com Next.js e React, e implementa as funcionalidades básicas de uma calculadora, como operações aritméticas, manipulação de números decimais e mudança de sinal. | `Next.js`, `React`, `CSS Modules`, `WebStorm` |
 
