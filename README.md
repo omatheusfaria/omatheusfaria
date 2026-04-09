@@ -46,8 +46,10 @@ APIs RESTful · OAuth 2.0 · GraphQL · IA Generativa (Gemini) · Automação de
 
 ## GitHub Stats
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omatheusfaria&show_icons=true&hide_border=true&theme=dark&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusfaria&layout=compact&hide_border=true&theme=dark&bg_color=00000000)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=omatheusfaria&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusfaria&layout=compact&hide_border=true" height="160" />
+</p>
 
 ---
 
